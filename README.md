@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-pinar)
-[![LinkStack](https://img.shields.io/badge/LinkStack-%23000000.svg?logo=Linktree&logoColor=white)](https://link.furkanpinar.me/)
+[![furkanpinar.me](https://img.shields.io/badge/furkanpinar.me-%231E1E1E.svg?logo=gnometerminal&logoColor=white)](https://link.furkanpinar.me/)
 
 
 # 💻 Tech Stack:

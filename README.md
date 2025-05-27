@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @furkanpnr<br>
 - 👀 I’m interested in in backend development, network security, and cloud computing.<br>
 - 🌱 I’m currently learning Java Spring Boot and improving my skills in Django.<br>
-- 💞️ I’m looking to collaborate on open-source projects related to web development and cybersecurity.<br>
 - 📫 How to reach me: [contact@furkanpinar.me](mailto:contact@furkanpinar.me)<br>
 - 😄 Pronouns: He/Him<br>
 - ⚡ Fun fact: I enjoy exploring hosting and self-hosted solutions, alongside learning new technologies and solving complex problems.

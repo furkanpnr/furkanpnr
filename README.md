@@ -1,5 +1,4 @@
 # Furkan Pınar
-### Contact
 
 [![Email](https://img.shields.io/badge/Email-contact%40furkanpinar.me-1E1E1E?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@furkanpinar.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--pinar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-pinar)

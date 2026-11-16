@@ -1,39 +1,87 @@
-# 💫 About Me:
-- 👋 Hi, I’m @furkanpnr<br>
-- 👀 I’m interested in in backend development, network security, and cloud computing.<br>
-- 🌱 I’m currently learning Java Spring Boot and improving my skills in Django.<br>
-- 📫 How to reach me: [contact@furkanpinar.me](mailto:contact@furkanpinar.me)<br>
-- 😄 Pronouns: He/Him<br>
-- ⚡ Fun fact: I enjoy exploring hosting and self-hosted solutions, alongside learning new technologies and solving complex problems.
+# Furkan Pınar
 
+**Software Engineer** · Backend · VoIP · Infrastructure
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-pinar)
-[![furkanpinar.me](https://img.shields.io/badge/furkanpinar.me-%231E1E1E.svg?logo=gnometerminal&logoColor=white)](https://link.furkanpinar.me/)
+I build backend systems and real-time voice infrastructure. My professional experience is in call center telephony: IP PBX platforms on Asterisk, WebRTC clients, and AI voice agents, running on Linux servers backed by MySQL.
 
+## What I work on
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=furkanpnr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=furkanpnr&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanpnr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **VoIP & telephony:** Asterisk-based IP PBX and call center systems, WebRTC, AI voice agents
+- **Backend development:** APIs and services with Python (Django, FastAPI) and relational databases
+- **Infrastructure:** Linux server management, self-hosting, deployment and networking
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Currently
 
----
-[![](https://visitcount.itsvg.in/api?id=furkanpnr&icon=5&color=0)](https://visitcount.itsvg.in)
+- Learning **Rust**
+- Running and managing my own **self-hosted** services
+- Using **AI coding agents** in my day-to-day development workflow
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkanpnr/furkanpnr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkanpnr/furkanpnr/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/furkanpnr/furkanpnr/output/github-snake.svg" />
-</picture>
+## Tech stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages**
 
-<!---
-furkanpnr/furkanpnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1E1E1E?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1E1E1E?style=flat-square&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-1E1E1E?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-1E1E1E?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-1E1E1E?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E1E1E?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1E1E1E?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1E1E1E?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-1E1E1E?style=flat-square&logo=dotnet&logoColor=white)
+
+**VoIP & real-time**
+
+![Asterisk](https://img.shields.io/badge/Asterisk-1E1E1E?style=flat-square&logo=asterisk&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-1E1E1E?style=flat-square&logo=webrtc&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-1E1E1E?style=flat-square&logo=livekit&logoColor=white)
+![AI Voice Agents](https://img.shields.io/badge/AI%20Voice%20Agents-1E1E1E?style=flat-square)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-1E1E1E?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1E1E1E?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1E1E1E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Infrastructure**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1E1E1E?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-1E1E1E?style=flat-square&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1E1E1E?style=flat-square&logo=caddy&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-1E1E1E?style=flat-square&logo=gunicorn&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1E1E1E?style=flat-square&logo=cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-1E1E1E?style=flat-square&logo=digitalocean&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-1E1E1E?style=flat-square)
+
+**Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-1E1E1E?style=flat-square&logo=portainer&logoColor=white)
+
+**Monitoring**
+
+![Grafana](https://img.shields.io/badge/Grafana-1E1E1E?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-1E1E1E?style=flat-square&logo=prometheus&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-1E1E1E?style=flat-square&logo=prometheus&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-1E1E1E?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1E1E1E?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-1E1E1E?style=flat-square&logo=swagger&logoColor=white)
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-contact%40furkanpinar.me-1E1E1E?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@furkanpinar.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--pinar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-pinar)
+[![Website](https://img.shields.io/badge/Website-furkanpinar.me-1E1E1E?style=flat-square&logo=googlechrome&logoColor=white)](https://link.furkanpinar.me/)

@@ -1,4 +1,9 @@
 # Furkan Pınar
+### Contact
+
+[![Email](https://img.shields.io/badge/Email-contact%40furkanpinar.me-1E1E1E?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@furkanpinar.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--pinar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-pinar)
+[![Website](https://img.shields.io/badge/Website-furkanpinar.me-1E1E1E?style=flat-square&logo=googlechrome&logoColor=white)](https://link.furkanpinar.me/)
 
 **Software Engineer** · Backend · VoIP · Infrastructure
 
@@ -79,9 +84,3 @@ I build backend systems and real-time voice infrastructure. My professional expe
 ![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-1E1E1E?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-1E1E1E?style=flat-square&logo=swagger&logoColor=white)
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Email-contact%40furkanpinar.me-1E1E1E?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@furkanpinar.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-furkan--pinar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-pinar)
-[![Website](https://img.shields.io/badge/Website-furkanpinar.me-1E1E1E?style=flat-square&logo=googlechrome&logoColor=white)](https://link.furkanpinar.me/)
